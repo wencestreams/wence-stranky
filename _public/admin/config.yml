@@ -15,7 +15,7 @@ output:
 collections:
   - name: content
     label: Content
-    folder: /site-1
+    folder: /site-tailwind
     slug: "{{fields._slug}}"
     fields:
       - { label: Title, name: title, widget: string, required: false }

@@ -7,7 +7,7 @@
     "do"
   ],
   "scripts": {
-    "11ty": "ELTY_OPTIONS='--input=./site-1 --config=./node_modules/@anyblades/eleventy-blades/src/eleventy.config.js' npm -w do run",
+    "11ty": "ELTY_OPTIONS='--input=./site-tailwind --config=./node_modules/@anyblades/eleventy-blades/src/eleventy.config.js' npm -w do run",
     "start": "npm run 11ty -- start",
     "stage": "npm run 11ty -- stage",
     "build": "npm run 11ty -- build",

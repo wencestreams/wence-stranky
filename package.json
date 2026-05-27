@@ -8,14 +8,14 @@
   ],
   "scripts": {
     "do": "ELTY_OPTIONS=\"--input=${INPUT:-./site-tailwind/} --config=./node_modules/@anyblades/eleventy-blades-base/eleventy.config.js\" TW_OPTIONS=\"--input=${INPUT:-./site-tailwind/}/styles.css --output=./_public/styles.css\" npm -w do run",
-    "start": "npm run do -- start",
+    "start": "npm run do -- start:with-tw",
     "stage": "npm run do -- stage",
     "build": "npm run do -- build",
     "dev:dl": "curl https://raw.githubusercontent.com/anyblades/bladeswitch/refs/heads/main/admin/index.html -o ./_public/admin/index.html"
   },
   "dependencies": {
     "@11ty/eleventy": "^4.0.0-alpha.7",
-    "@anyblades/eleventy-blades-base": "^0.4.4",
+    "@anyblades/eleventy-blades-base": "^0.4.5",
     "@tailwindcss/cli": "^4.1.18",
     "@tailwindcss/typography": "^0.5.19",
     "tailwindcss": "^4.1.18"

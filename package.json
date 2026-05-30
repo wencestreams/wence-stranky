@@ -7,7 +7,7 @@
     "do"
   ],
   "scripts": {
-    "do": "ELTY_OPTIONS=\"--input=${INPUT:-./site-tailwind/} --config=./node_modules/@anyblades/eleventy-blades-base/eleventy.config.js\" TW_OPTIONS=\"--input=${INPUT:-./site-tailwind/}/styles.css --output=./_public/styles.css\" npm -w do run",
+    "do": "clear; ELTY_OPTIONS=\"--input=${INPUT:-./site-tailwind/} --config=./node_modules/@anyblades/eleventy-blades-base/eleventy.config.js\" TW_OPTIONS=\"--input=${INPUT:-./site-tailwind/}/styles.css --output=./_public/styles.css\" npm -w do run",
     "start": "npm run do -- start:with-tw",
     "stage": "npm run do -- stage",
     "build": "npm run do -- build",
@@ -22,8 +22,8 @@
   },
   "=== SITE GLOBALS": "===",
   "site": {
-    "title": "Build Awesome Starter",
-    "description": "Modern, lightweight Eleventy v4 starter with Tailwind or Pico; Blades, CMS and multisiting 🥷",
+    "title": "Build Awesome Starter(s)",
+    "generator": "Build Awesome Starter — Modern, lightweight Eleventy v4 multi-site starter showcasing Eleventy Blades and Tailwind CLI for: 1) Tailwind 2) Pico 3) Simple CSS",
     "styles": [
       "https://cdn.jsdelivr.net/npm/prismjs@1/themes/prism-tomorrow.min.css",
       "https://cdn.jsdelivr.net/npm/prismjs@1/plugins/treeview/prism-treeview.min.css",

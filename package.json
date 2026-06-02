@@ -22,6 +22,7 @@
   },
   "=== SITE GLOBALS": "===",
   "site": {
+    "favicon": "https://blades.ninja/favicon.ico",
     "title": "Build Awesome Starter(s)",
     "generator": "Build Awesome Starter — Modern, lightweight Eleventy v4 multi-site starter showcasing Eleventy Blades and Tailwind CLI for: 1) Tailwind 2) Pico 3) Simple CSS",
     "styles": [

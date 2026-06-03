@@ -41,9 +41,7 @@ Modern, lightweight Eleventy v4 multi-site starter showcasing [Eleventy Blades](
 
 ---
 
-#### Local development
-
-As simple as:
+Local development is as simple as:
 
 ```sh
 npm install    # dependencies
@@ -51,39 +49,3 @@ npm start      # development
 npm run stage  # serve production version locally
                # ready to deploy! 🚀
 ```
-
-CMS will be available locally at `http://localhost:8080/admin/` (or similar port).
-
----
-
-#### Showcase
-
-https://any.digital/ &nbsp;&nbsp;
-[<i>🥷&nbsp;</i>blades.ninja](https://blades.ninja/) &nbsp;&nbsp;
-https://minform.hostfurl.com/ &nbsp;&nbsp;
-[<i class="fa-solid fa-plus text-gray-300 hover:text-black"></i>](https://github.com/anyblades/build-awesome-starter/edit/main/src/index.md)<!--{title="Suggest your website started by Build Awesome Starter"}-->
-
----
-
-#### More info
-
-<big>Repository: https://github.com/anyblades/build-awesome-starter</big>
-
-Found it useful? Give a [![](https://img.shields.io/github/stars/anyblades/build-awesome-starter?label=Star&)](https://github.com/anyblades/build-awesome-starter)
-
-Featured by:
-
-- https://11ty.blades.ninja/starters/
-- https://11tybundle.dev/starters/
-- https://sveltiacms.app/en/docs/frameworks/eleventy
-
-<!--{.columns}-->
-
-Support:
-
-- https://github.com/orgs/anyblades/discussions for questions and ideas
-- https://github.com/anyblades/build-awesome-starter/issues for change requests or bug reports
-- https://www.11ty.dev/blog/discord/ for 11ty community support
-- https://sveltiacms.app/en/support for Sveltia CMS community support
-
-License: [MIT](https://github.com/anyblades/build-awesome-starter/blob/main/LICENSE)

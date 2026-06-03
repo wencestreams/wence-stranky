@@ -30,16 +30,13 @@
       "https://cdn.jsdelivr.net/npm/prismjs@1/plugins/treeview/prism-treeview.min.css",
       "https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@7/css/all.min.css"
     ],
+    "inline_styles": ["body { padding-block: 4rem 2rem }"],
     "scripts": [
       "https://cdn.jsdelivr.net/npm/prismjs@1/components/prism-core.min.js",
       "https://cdn.jsdelivr.net/npm/prismjs@1/plugins/autoloader/prism-autoloader.min.js",
       "https://cdn.jsdelivr.net/npm/prismjs@1/plugins/treeview/prism-treeview.min.js"
     ],
-    "footer_contents": [
-      "Made with sharp [Blades](https://blades.ninja/)",
-      "© [*Any*digital](https://any.digital/) 2025–{{ year }}",
-      "<br> [![](https://img.shields.io/github/stars/anyblades/build-awesome-starter?label=🥷&logo=%20)](https://github.com/anyblades/build-awesome-starter)"
-    ]
+    "footer": "Powered by &nbsp;<a href='https://github.com/anyblades'><img src='https://img.shields.io/github/stars/anyblades?logo=_&label=🥷%20Blades'></a>"
   },
   "=== METADATA": "===",
   "author": "Anton Staroverov",

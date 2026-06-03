@@ -1,12 +1,8 @@
-{% assign site = pkg.site | merge: site | attr_set: 'styles', pkg.site.styles | attr_concat: 'styles', site.styles %}
+{% assign site = pkg.site | merge: site %}
 
 {% capture body %}
-  <main class="container breakout-all">
-    {{ content }}
-  </main>
-  <footer style="text-align: center">
-    {{ site.footer_contents | join: ' ' | renderContent: 'liquid,md', site }}
-  </footer>
+  <main class="container breakout-all">{{ content }}</main>
+  <footer style="text-align: center">{{ site.footer }} © {{ site.year }}</footer>
 {% endcapture %}
 
 {% include blades/html.liquid %}

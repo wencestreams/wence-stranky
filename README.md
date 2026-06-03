@@ -29,18 +29,6 @@ Modern, lightweight Eleventy v4 multi-site starter showcasing [Eleventy Blades](
 
 ---
 
-#### How it works?
-
-**Build Awesome Starter** is an advanced version of 🥷 [*Blade*switch](https://github.com/anyblades/bladeswitch) starter:
-
-- _BUT_ focusing exclusively on Eleventy v4 and adding Tailwind v4 support.
-- It reuses same [Blades[-plugin]](https://github.com/anyblades/eleventy-blades) to symlink `eleventy.config.js` by default (so you don't have to maintain it anymore!)
-- It also reuses Nunjucks version of the same _universal_ [Blades[-kit]](https://github.com/anyblades/blades):
-  - _universal_ means you can switch `.njk` to `.liquid` any time
-  - _universal_ also means you can switch from Tailwind to Pico.css or even bare-metal Blades[.css]
-
----
-
 Local development is as simple as:
 
 ```sh
@@ -49,3 +37,11 @@ npm start      # development
 npm run stage  # serve production version locally
                # ready to deploy! 🚀
 ```
+
+---
+
+Featured by:
+
+https://11tybundle.dev/starters/,
+https://11ty.blades.ninja/starters/,
+[awesome-11ty](https://github.com/anyblades/awesome-11ty-buildawesome)

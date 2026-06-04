@@ -1,7 +1,7 @@
 {
   "private": true,
   "name": "@anyblades/build-awesome-starter",
-  "version": "0.11.0",
+  "version": "1.0.0-beta",
   "license": "MIT",
   "type": "module",
   "workspaces": [
@@ -16,7 +16,7 @@
   },
   "dependencies": {
     "@11ty/eleventy": "^4.0.0-alpha.7",
-    "@anyblades/eleventy-blades-base": "^0.4.8",
+    "@anyblades/eleventy-blades-base": "^1.0.0-beta",
     "@tailwindcss/cli": "^4.1.18",
     "@tailwindcss/typography": "^0.5.19",
     "tailwindcss": "^4.1.18"
@@ -34,7 +34,9 @@
       "https://cdn.jsdelivr.net/npm/prismjs@1/plugins/treeview/prism-treeview.min.css",
       "https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@7/css/all.min.css"
     ],
-    "inline_styles": ["body { padding-block: 4rem 2rem }"],
+    "inline_styles": [
+      "body { padding-block: 4rem 2rem }"
+    ],
     "scripts": [
       "https://cdn.jsdelivr.net/npm/prismjs@1/components/prism-core.min.js",
       "https://cdn.jsdelivr.net/npm/prismjs@1/plugins/autoloader/prism-autoloader.min.js",

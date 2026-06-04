@@ -29,9 +29,9 @@
       "name": "Anton Staroverov"
     },
     "styles": [
+      "https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@7/css/all.min.css",
       "https://cdn.jsdelivr.net/npm/prismjs@1/themes/prism-tomorrow.min.css",
-      "https://cdn.jsdelivr.net/npm/prismjs@1/plugins/treeview/prism-treeview.min.css",
-      "https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@7/css/all.min.css"
+      "https://cdn.jsdelivr.net/npm/prismjs@1/plugins/treeview/prism-treeview.min.css"
     ],
     "inline_styles": [
       "body { padding-block: 4rem 2rem }"

@@ -1,4 +1,4 @@
-# 🥷 *B*uild Awesome Starter<sup class="faded">(s)</sup>
+# 🥷 *B*uild Awesome Starter<sup class="faded"><sub>(s)</sub></sup>
 
 ![](https://img.shields.io/github/v/release/anyblades/buildawesome-starters?label=&color=darkslategray&style=for-the-badge)
 [![](https://img.shields.io/badge/Code-gainsboro?logo=github&logoColor=darkslategray&style=for-the-badge)](https://github.com/anyblades/buildawesome-starters)

@@ -1,6 +1,6 @@
 @import "tailwindcss";
 @plugin "@tailwindcss/typography";
-@import "@anyblades/blades";
+@import "@anyblades/blades/standalone";
 
 /* Custom styles go below */
 body { @apply py-[4em] dark:bg-gray-900 }

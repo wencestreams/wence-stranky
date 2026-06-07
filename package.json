@@ -8,7 +8,7 @@
     "do"
   ],
   "scripts": {
-    "do": "clear; ELTY_OPTIONS=\"--input=${INPUT:-./site-tailwind/} --config=./node_modules/@anyblades/eleventy-blades-base/eleventy.config.js\" TW_OPTIONS=\"--input=${INPUT:-./site-tailwind/}/styles.css --output=./_public/styles.css\" npm -w do run",
+    "do": "clear; ELTY_OPTIONS=\"--input=${IN:-./site-tailwind/} --config=./node_modules/@anyblades/eleventy-blades-base/eleventy.config.js\" TW_OPTIONS=\"--input=${IN:-./site-tailwind/}/styles.css --output=./_public/styles.css\" npm -w do run",
     "start": "npm run do -- start:with-tw",
     "stage": "npm run do -- stage",
     "build": "npm run do -- build"

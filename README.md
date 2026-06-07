@@ -46,9 +46,12 @@ npm run stage  # serve production version locally
 
 ---
 
-Featured by:
+- Featured by:
+  - https://11tybundle.dev/starters/
+  - https://sveltiacms.app/en/docs/frameworks/eleventy
+  - https://www.11ty.dev/docs/starter/
+- See also:
+  - https://11ty.blades.ninja/starters/
+  - https://11ty.blades.ninja/awesome/
 
-https://11tybundle.dev/starters/,
-https://11ty.blades.ninja/starters/,
-https://www.11ty.dev/docs/starter/,
-[awesome-11ty](https://github.com/anyblades/awesome-11ty-buildawesome)
+<!--{.unlist .columns}-->

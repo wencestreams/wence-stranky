@@ -6,7 +6,7 @@
 
 <big>7-in-1 modern, lightweight Build Awesome starter showcasing [Eleventy&nbsp;*Bl*ades&nbsp;Kit](//11ty.blades.ninja/) for:</big>
 
-| [1] [*Bl*ades CSS](//blades.11ty.blades.ninja/)          | ![](https://img.shields.io/netlify/41df6bc0-3b91-48f7-903a-3511ca3652a8?logo=&label=🥷)                                           |
+| [1] [*Bl*ades CSS](//start.11ty.blades.ninja/)           | ![](https://img.shields.io/netlify/41df6bc0-3b91-48f7-903a-3511ca3652a8?logo=&label=🥷)                                           |
 | -------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------- |
 | [2] [Pico CSS](//pico.11ty.blades.ninja/)                | ![](https://img.shields.io/netlify/93494d69-cb21-4ad0-855f-3748d3741e5c?logo=&label=✨)                                           |
 | [3] [Simple CSS](//simple.11ty.blades.ninja/)            | ![](https://img.shields.io/netlify/6bbb26f6-0115-4325-8cd3-b59e22f18265?logo=&label={})                                           |

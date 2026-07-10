@@ -2,7 +2,7 @@
 
 backend:
   name: github
-  repo: YOUR_USER/REPO # @TODO: replace with your own repo!
+  repo: wencestreams/wence-stranky
   branch: main
 
 # Global configuration
